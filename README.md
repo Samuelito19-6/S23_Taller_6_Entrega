@@ -16,4 +16,4 @@ Selección de tickers, comparación de precios, rendimiento, volatilidad y estad
 Yahoo Finance mediante yfinance; si falla, la app informa que utiliza datos simulados.
 
 ## Autor e interpretación
-Completar con tu nombre y un breve análisis de los resultados.
+Samuel David Peinado Guerrero, 
